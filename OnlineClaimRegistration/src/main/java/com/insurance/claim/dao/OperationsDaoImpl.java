@@ -1,5 +1,5 @@
 package com.insurance.claim.dao;
 
-public interface ClaimDao {
+public class OperationsDaoImpl {
 
 }

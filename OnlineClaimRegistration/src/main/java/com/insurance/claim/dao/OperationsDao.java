@@ -1,5 +1,5 @@
 package com.insurance.claim.dao;
 
-public interface PolicyDetailsDao {
+public interface OperationsDao {
 
 }
